@@ -2,6 +2,17 @@
 
 OBS: Como dev Júnior, fiz aplicação dos códigos da forma mais simples possível, pois meus conhecimentos em spring boot são medianos pois tal área é a qual estudo atualmente, então priorizei a simplicidade para evitar erros em caso de um código complexo.
 
+##Respostas##
+ 
+
+Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software? 
+
+    R – Prioridade no código limpo, análise de projeto, especificação e validação de requisitos e otimização de software. 
+
+Em qual etapa da implementação você considera a qualidade de software? 
+
+    R – Nos processos de teste e análise de otimização. 
+            
 O objetivo deste documento é identificar seus conhecimentos quanto às tecnologias utilizadas no cotidiano de desenvolvimento da equipe de Back-end na Attornatus Procuradoria Digital.
 
 Esta análise propõe avaliar os seguintes temas:  Qualidade de código  Java, Spring boot  API REST  Testes
